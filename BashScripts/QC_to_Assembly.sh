@@ -52,6 +52,11 @@ meryl count k=21 filtered<raw_reads>.fastq.gz output reads.meryl
 #plot the kmers 
 Rscript /data01/mlandi/software/merqury/plot/plot_spectra_cn.R -f asm.merqury.spectra-asm.hist -o <out> -m 250 -t fill
 
+######## reference-based scaffolding using TME204 reference genome 
+#Ragtag Version - 2.1.0
+ragtag.py scaffold TME204.asm.hap1.fasta asm.hap1.fasta -o ordered.ragtag.hap1 -t 12
+
+
 
 
 
