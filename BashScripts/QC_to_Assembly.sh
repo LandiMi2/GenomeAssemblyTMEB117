@@ -11,6 +11,8 @@ fastp.0.23.1 -i \
     <raw_reads>.fastq.gz \
     -o filtered<raw_reads>.fastq.gz --length_required 10000 --length_limit 30000
 
+#removal of adapters using HiFiAdapterFilt (https://github.com/sheinasim/HiFiAdapterFilt)
+
 #mapping HiFi raw reads to a genome using pbmm2 aligner (https://github.com/PacificBiosciences/pbmm2)
 #Pbmm2 version - 1.10.0; minimap2 2.15
 Pbmm2 index <ref.fa> <ref.mmi>
