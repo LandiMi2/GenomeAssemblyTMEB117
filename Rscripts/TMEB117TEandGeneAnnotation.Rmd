@@ -284,4 +284,4 @@ circos.genomicDensity(genes1,
 
 
 
-**NB:** Above scripts was utilized for *hap 2 genome* preprocessing EDTA TE annotations and visualization of the gene annotation
+##NB:Above scripts was utilized for *hap 2 genome* preprocessing EDTA TE annotations and visualization of the gene annotation
