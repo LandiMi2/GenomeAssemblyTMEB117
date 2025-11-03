@@ -8,7 +8,7 @@ This repository contains scripts of the methodology for assembling the genome of
   - annotation.sh: Commands for transposable elements (TE) and the funannotate singularity script used in the gene annotation section.
 - R scripts: scripts for TE and gene annotation visualizations
 
-For more details and methods, please take a look at the published paper [here](link provided soon).
+For more details and methods, please take a look at the published paper [here](https://www.nature.com/articles/s41597-023-02800-0).
 
 
 
