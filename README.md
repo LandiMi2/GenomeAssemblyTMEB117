@@ -9,6 +9,8 @@ This repository contains scripts of the methodology for assembling the genome of
 - R scripts: scripts for TE and gene annotation visualizations
 
 For more details and methods, please take a look at the published paper [here](https://www.nature.com/articles/s41597-023-02800-0).
+[![DOI](https://zenodo.org/badge/673225154.svg)](https://doi.org/10.5281/zenodo.18739266)
+
 
 
 
