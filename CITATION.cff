@@ -1,0 +1,9 @@
+cff-version: 3.0
+message: "If you use these commands, please cite them as below."
+authors:
+- family-names: Landi 
+  given-names: Michael 
+orcid: https://orcid.org/0000-0001-5597-7802
+title: Haplotype-resolved genome of heterozygous African cassava TMEB117 (Manihot esculenta)
+version: V3
+date-released: 2023-12-09
